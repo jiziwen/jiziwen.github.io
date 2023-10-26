@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/awen/.nvm/versions/node/v12.22.1/bin/node /Users/awen/.nvm/versions/node/v12.22.1/bin/yarn add -D vuepress
+
+PATH: 
+  /Users/awen/.nvm/versions/node/v12.22.1/bin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/awen/.nvm/versions/node/v12.22.1/bin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/awen/Documents/flutter/bin:/Users/awen/Library/Android/sdk/emulator:/Users/awen/Library/Android/sdk/tools:/Users/awen/Library/Android/sdk/tools/bin:/Users/awen/Library/Android/sdk/platform-tools:/Users/awen/Documents/flutter/bin:/Users/awen/Library/Android/sdk/emulator:/Users/awen/Library/Android/sdk/tools:/Users/awen/Library/Android/sdk/tools/bin:/Users/awen/Library/Android/sdk/platform-tools
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  12.22.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: http://nexus.17usoft.com/repository/npm-framework-1024-transfer/vuepress: Package 'vuepress' not found
+      at Request.params.callback [as _callback] (/Users/awen/.nvm/versions/node/v12.22.1/lib/node_modules/yarn/lib/cli.js:66145:18)
+      at Request.self.callback (/Users/awen/.nvm/versions/node/v12.22.1/lib/node_modules/yarn/lib/cli.js:140890:22)
+      at Request.emit (events.js:314:20)
+      at Request.<anonymous> (/Users/awen/.nvm/versions/node/v12.22.1/lib/node_modules/yarn/lib/cli.js:141862:10)
+      at Request.emit (events.js:314:20)
+      at IncomingMessage.<anonymous> (/Users/awen/.nvm/versions/node/v12.22.1/lib/node_modules/yarn/lib/cli.js:141784:12)
+      at Object.onceWrapper (events.js:420:28)
+      at IncomingMessage.emit (events.js:326:22)
+      at endReadableNT (_stream_readable.js:1241:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
