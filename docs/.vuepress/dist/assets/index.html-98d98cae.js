@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-78ac99f0","path":"/class/","title":"分类","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"分类"},"headers":[{"level":3,"title":"234","slug":"_234","link":"#_234","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.02,"words":7},"filePathRelative":"class/README.md"}');export{e as data};

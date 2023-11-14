@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0090fd48","path":"/class/human-detect/","title":"Human Detect","lang":"zh-CN","frontmatter":{"title":"Human Detect","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

@@ -1,0 +1,20 @@
+.home .vp-hero-info-wrapper {
+  min-height: 100vh;
+  .vp-hero-info {
+    perspective: 1000px;
+    .vp-hero-image {
+      border-radius: 50%;
+      position: relative;
+      transform-style: preserve-3d;
+      animation: rotate 10s linear infinite;
+    }
+  }
+}
+@keyframes rotate {
+  0% {
+    transform: rotateY(0deg);
+  }
+  100% {
+    transform: rotateY(360deg);
+  }
+}
