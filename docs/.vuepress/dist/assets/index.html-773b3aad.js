@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-744d024e","path":"/tag/","title":"标签","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"标签"},"headers":[{"level":3,"title":"234","slug":"_234","link":"#_234","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.02,"words":7},"filePathRelative":"tag/README.md"}');export{e as data};

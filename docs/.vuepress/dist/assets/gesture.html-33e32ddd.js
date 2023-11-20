@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as r,c as a,a as e,b as o}from"./app-f627f15b.js";const s={},c=e("h3",{id:"_234",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_234","aria-hidden":"true"},"#"),o(" 234")],-1),_=[c];function n(d,i){return r(),a("div",null,_)}const f=t(s,[["render",n],["__file","gesture.html.vue"]]);export{f as default};

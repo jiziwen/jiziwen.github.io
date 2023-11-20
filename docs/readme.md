@@ -10,7 +10,7 @@ bgImageStyle:
   background-attachment: fixed
   background-size: cover
 heroText: 写的人多了，也就忘了
-tagline: 秀莲，我来了✨
+tagline: 又是美好的一天✨
 actions:
   - text: 分类 💡
     link: ./class/
