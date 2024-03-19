@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ec4438a6","path":"/tag/%E7%BD%91%E7%BB%9C/","title":"网络","lang":"zh-CN","frontmatter":{"title":"网络","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
